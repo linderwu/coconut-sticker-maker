@@ -1,0 +1,4 @@
+interface:
+  display_name: "椰子手稿轉貼圖"
+  short_description: "將椰子角色手繪草稿重繪成第一版同款彩色貼圖，逐張校對文字並分版保存"
+  default_prompt: "請用 $coconut-sticker-maker 將指定椰子手稿製作成第一版同款獨立 PNG，保留原稿動作和文案，儲存到指定版本資料夾。"
